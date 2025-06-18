@@ -43,35 +43,38 @@ Se busca predecir una variable continua (`new_vaccine_doses_administered`) en fu
 
 **Estructura del Proyecto**
 
-data/  
-├── raw/                # Datos originales sin procesar  
-├── processed/          # Datos listos para entrenamiento  
-└── interim/            # Datos intermedios  
+**Estructura del Proyecto**
 
-docs/  
-└── dataset_description.md  
+├── data/                # Datos originales y derivados
+│   ├── raw/             # Datos sin procesar (brutos)
+│   ├── processed/       # Datos listos para el modelado
+│   └── interim/         # Datos intermedios (transformaciones)
 
-models/                 # Modelos entrenados y serializados  
-notebooks/              # Notebooks para EDA, entrenamiento y evaluación  
-references/             # Papers, benchmarks y documentación técnica  
-reports/  
-├── figures/            # Visualizaciones y gráficos  
-└── Análisis de Resultados  
+├── docs/                # Documentación del proyecto
+│   └── 1. Proceso del codigo realizado.pdf
 
-.gitignore  
-LICENSE  
-README.md  
-requirements.txt
+└──2. Informe del proyecto.pdf
 
-**Estado del Proyecto**
+├── models/              # Modelos entrenados y serializados
 
-- Dataset preprocesado  
-- Modelos entrenados y evaluados  
-- Predicciones generadas para futuros escenarios  
-- Análisis de resultados disponible en carpeta reports/
+├── notebooks/           # Notebooks de análisis y entrenamiento
+│   └── 2025\_AA\_Proyecto.ipynb.ipynb
 
-**Autora**
+├── references/          # Artículos, papers o benchmarks usados como base
 
-Gabriela Vel  
+├── reports/             # Reportes y visualizaciones │   ├── figures/         # Imágenes generadas │
+
+├── src/                 # Código fuente del proyecto
+│   ├── preprocess/      # Scripts de limpieza y preparación de datos
+│   ├── train/           # Scripts de entrenamiento
+│   └── predict/         # Scripts de predicción con modelos entrenados
+
+├── .gitignore           # Archivos y carpetas excluidos del control de versiones
+├── LICENSE              # Licencia del proyecto
+├── README.md            # Descripción general del proyecto
+└── requirements.txt     # Dependencias necesarias para reproducir el entorno
+
+
+Gabriela Velasquez
 Proyecto final - Aprendizaje Automático 2025
 
