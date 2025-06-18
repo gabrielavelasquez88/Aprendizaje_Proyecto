@@ -46,6 +46,7 @@ Se busca predecir una variable continua (`new_vaccine_doses_administered`) en fu
 **Estructura del Proyecto**
 
 ├── data/                # Datos originales y derivados
+
 │   ├── raw/             # Datos sin procesar (brutos)
 │   ├── processed/       # Datos listos para el modelado
 │   └── interim/         # Datos intermedios (transformaciones)
@@ -76,36 +77,6 @@ Se busca predecir una variable continua (`new_vaccine_doses_administered`) en fu
 
 
 
-**Estructura del Proyecto**
-
-├── data/                # Datos originales y derivados
-│   ├── raw/             # Datos sin procesar (brutos)
-│   ├── processed/       # Datos listos para el modelado
-│   └── interim/         # Datos intermedios (transformaciones)
-
-├── docs/                # Documentación del proyecto
-│   └── dataset_description.md
-
-├── models/              # Modelos entrenados y serializados
-
-├── notebooks/           # Notebooks de análisis y entrenamiento
-│   └── exploracion_modelado.ipynb
-
-├── references/          # Artículos, papers o benchmarks usados como base
-
-├── reports/             # Reportes y visualizaciones
-│   ├── figures/         # Imágenes generadas
-│   └── analisis_final/  # Evaluación de modelos
-
-├── src/                 # Código fuente del proyecto
-│   ├── preprocess/      # Scripts de limpieza y preparación de datos
-│   ├── train/           # Scripts de entrenamiento
-│   └── predict/         # Scripts de predicción con modelos entrenados
-
-├── .gitignore           # Archivos y carpetas excluidos del control de versiones
-├── LICENSE              # Licencia del proyecto
-├── README.md            # Descripción general del proyecto
-└── requirements.txt     # Dependencias necesarias para reproducir el entorno
 
 Gabriela Velasquez
 Proyecto final - Aprendizaje Automático 2025
