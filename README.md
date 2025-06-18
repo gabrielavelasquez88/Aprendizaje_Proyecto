@@ -42,39 +42,38 @@ Se busca predecir una variable continua (`new_vaccine_doses_administered`) en fu
 - Support Vector Regressor (SVR): útil para capturar relaciones no lineales con kernel RBF.
 
 **Estructura del Proyecto**
-
 **Estructura del Proyecto**
-
+```
 ├── data/                # Datos originales y derivados
-
 │   ├── raw/             # Datos sin procesar (brutos)
 │   ├── processed/       # Datos listos para el modelado
 │   └── interim/         # Datos intermedios (transformaciones)
-
+│
 ├── docs/                # Documentación del proyecto
-│   └── 1. Proceso del codigo realizado.pdf
-
-└──2. Informe del proyecto.pdf
-
+│   ├── 1. Proceso del codigo realizado.pdf
+│   └── 2. Informe del proyecto.pdf
+│
 ├── models/              # Modelos entrenados y serializados
-
+│
 ├── notebooks/           # Notebooks de análisis y entrenamiento
-│   └── 2025\_AA\_Proyecto.ipynb.ipynb
-
+│   └── 2025_AA_Proyecto.ipynb
+│
 ├── references/          # Artículos, papers o benchmarks usados como base
-
-├── reports/             # Reportes y visualizaciones │   ├── figures/         # Imágenes generadas │
-
+│
+├── reports/             # Reportes y visualizaciones
+│   ├── figures/         # Imágenes generadas
+│   └── analisis_final/  # Evaluación de modelos
+│
 ├── src/                 # Código fuente del proyecto
 │   ├── preprocess/      # Scripts de limpieza y preparación de datos
 │   ├── train/           # Scripts de entrenamiento
 │   └── predict/         # Scripts de predicción con modelos entrenados
-
+│
 ├── .gitignore           # Archivos y carpetas excluidos del control de versiones
 ├── LICENSE              # Licencia del proyecto
 ├── README.md            # Descripción general del proyecto
 └── requirements.txt     # Dependencias necesarias para reproducir el entorno
-
+```
 
 
 
