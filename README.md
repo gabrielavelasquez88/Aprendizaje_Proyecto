@@ -23,7 +23,7 @@ Prever cuántas dosis se aplicarán diariamente, en función de factores como el
 - Priorizar zonas de mayor demanda.
 - Focalizar estrategias de comunicación sanitaria.
 
-Este proyecto se enfoca en Argentina, utilizando:
+Este proyecto se enfoca en Argentina, Tierra Del Fuego, utilizando:
 
 - Variables climáticas: temperatura, precipitación, humedad.
 - Variables de movilidad: hacia lugares de trabajo y en el hogar.
@@ -88,6 +88,10 @@ Proceso de recopilación: los datos son integrados desde múltiples fuentes ofic
 Preprocesamiento realizado:
 
 Se filtraron los datos para un país específico (por ejemplo, Argentina).
+
+
+Link Video:
+https://drive.google.com/file/d/1WOf4rLjNWLWCozGruRt-E5nZWLUnxOks/view?usp=sharing
 
 Gabriela Velasquez
 Proyecto final - Aprendizaje Automático 2025
