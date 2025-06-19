@@ -1,8 +1,8 @@
-**COVID-19 - Predicción de cantidad diaria de nuevas dosis de vacunas en Argentina**
+**COVID-19 - Predicción de cantidad diaria de nuevas dosis de vacunas en Tierra del fuego**
 
 **Objetivo General**
 
-Desarrollar un modelo de Aprendizaje Automático que permita predecir predecir cuántas dosis de vacunas se aplican por día en Argentina, usando datos climáticos, de movilidad y temporales.
+Desarrollar un modelo de Aprendizaje Automático que permita predecir predecir cuántas dosis de vacunas se aplican por día en Tierra Del Fuego, usando datos climáticos, de movilidad y temporales.
 
 **Objetivos Específicos**
 
