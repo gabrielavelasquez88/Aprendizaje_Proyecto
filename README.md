@@ -75,7 +75,19 @@ Se busca predecir una variable continua (`new_vaccine_doses_administered`) en fu
 └── requirements.txt     # Dependencias necesarias para reproducir el entorno
 ```
 
-
+Origen del Dataset
+•
+Fuente: https://health.google.com/covid-19/open-data/
+•
+Entidad recopiladora: Google y colaboradores académicos.
+•
+Cobertura geográfica: global, incluyendo datos específicos por país, provincia o región.
+•
+Proceso de recopilación: los datos son integrados desde múltiples fuentes oficiales de gobiernos, instituciones de salud pública, y datos abiertos de movilidad (Google Mobility), clima (NOAA), y vacunación (Our World in Data).
+•
+Preprocesamiento realizado:
+o
+Se filtraron los datos para un país específico (por ejemplo, Argentina).
 
 Gabriela Velasquez
 Proyecto final - Aprendizaje Automático 2025
