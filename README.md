@@ -91,7 +91,7 @@ Se filtraron los datos para un país específico (por ejemplo, Argentina).
 
 
 Link Video:
-https://drive.google.com/file/d/1WOf4rLjNWLWCozGruRt-E5nZWLUnxOks/view?usp=sharing
+[https://drive.google.com/file/d/1WOf4rLjNWLWCozGruRt-E5nZWLUnxOks/view?usp=sharing](https://drive.google.com/file/d/1f-AgKG7lYziEbn4FAgULoIM16gjYq2u4/view?usp=sharing)
 
 Gabriela Velasquez
 Proyecto final - Aprendizaje Automático 2025
