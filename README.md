@@ -1,8 +1,8 @@
-**COVID-19 - Predicción de Nuevas Dosis de Vacunas Administradas en Argentina**
+**COVID-19 - Predicción de cantidad diaria de nuevas dosis de vacunas en Argentina**
 
 **Objetivo General**
 
-Desarrollar un modelo de Aprendizaje Automático que permita predecir la cantidad diaria de nuevas dosis de vacunas administradas en Argentina, a partir de variables climáticas, de movilidad y estacionales.
+Desarrollar un modelo de Aprendizaje Automático que permita predecir predecir cuántas dosis de vacunas se aplican por día en Argentina, usando datos climáticos, de movilidad y temporales.
 
 **Objetivos Específicos**
 
